@@ -31,8 +31,8 @@
     height: 100%;
     z-index: 9999999;
     box-sizing: border-box;
-    /*border: 20px solid #0066CC;*/
-    border: 10px solid #0066CC;
+    border: 20px solid #0066CC;
+    /*border: 10px solid #0066CC;*/
 }
 
 .inAppBrowserWrapFullscreen {
@@ -40,14 +40,14 @@
 }
 
 .inappbrowser-app-bar {
-    height: 70px;
+    height: 60px;
     background-color: #404040;
     z-index: 9999999;
 }
 
 .inappbrowser-app-bar-inner {
     padding-top: 10px;
-    height: 60px;
+    height: 50px;
     width: 155px;
     margin: 0 auto;
     background-color: #404040;
