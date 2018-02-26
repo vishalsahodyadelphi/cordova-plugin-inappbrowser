@@ -31,8 +31,8 @@
     height: 100%;
     z-index: 9999999;
     box-sizing: border-box;
-    border: 20px solid #0066CC;
-    border: 20px solid #0066CC;
+    /*border: 20px solid #0066CC;*/
+    border: 10px solid #0066CC;
 }
 
 .inAppBrowserWrapFullscreen {
